@@ -1,0 +1,9 @@
+[package]
+org = "anupama"
+name = "invoiceservice"
+version = "0.1.0"
+distribution = "2201.13.6"
+title = "InvoiceService"
+
+[build-options]
+sticky = true
